@@ -1,3 +1,4 @@
 # LearningWithCam
-This is me practising my craft as I'm very new and learning new skills in coding:) Hope you enjoy
-
+Hi, I'm Cam! 
+I am currently an Armed Forces Aircraft Engineer looking to change industry into Software Development/Engineering!
+Any Help is greatly appreciated with my code and I hope you like what I'm trying to do:)
